@@ -1,8 +1,6 @@
 ### Hi 👋
 **我是 蓝师傅**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lanshifu&show_icons=true&bg_color=F0F7FF&title_color=1989FA&text_color=3E4B5C&icon_color=3E4B5C&locale=cn)
-
 #### 在哪里找到我
 
 | 掘金 | 简书 | 微信 |
