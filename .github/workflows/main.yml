@@ -14,5 +14,5 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "http://localhost:1200/juejin/posts/3298190612500696"
+          feed_list: "https://juejin.cn/user/3298190612500696/posts"
 
