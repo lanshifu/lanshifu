@@ -14,13 +14,6 @@
 - 🙋🏻 Android 程序员
 - 📫 lanshifu2@gmail.com
 
-#### 本周贡献
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
 
 #### 技术文章 [》》》](https://juejin.cn/user/3298190612500696/posts)
 <!-- BLOG-POST-LIST:START -->
