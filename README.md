@@ -16,6 +16,13 @@
 | :-: | :-: | :-: |
 | [点我](https://juejin.cn/user/3298190612500696) | [点我](https://www.jianshu.com/u/282785a6b12f) | wx_lanshifu |
 
+
+#### 技能点
+
+![Android](https://img.shields.io/badge/Android-%2335495e.svg?style=for-the-badge&logo=Android&logoColor=%FF35D06D)
+![Flutter](https://img.shields.io/badge/Flutter-%23323330.svg?style=for-the-badge&logo=Flutter&logoColor=%FF0F7BE4)
+![Python](https://img.shields.io/badge/Python-%23323330.svg?style=for-the-badge&logo=Flutter&logoColor=%FF0F7BE4)
+
 #### 最新文章 
 <!-- BLOG-POST-LIST:START -->
 - [ASM hook隐私方法调用，防止App被下架](https://juejin.cn/post/7043399520486424612)
