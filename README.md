@@ -7,6 +7,10 @@
 | :-: | :-: | :-: |
 | [点我](https://juejin.cn/user/3298190612500696) | [点我](https://www.jianshu.com/u/282785a6b12f) | wx_lanshifu |
 
+### ⭐️ &nbsp;Github Star
+
+<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lanshifu&count_private=true&show_icons=true"/>
+
 #### 关于我
 
 - 🙋🏻 Android 程序员
