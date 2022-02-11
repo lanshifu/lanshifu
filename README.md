@@ -1,13 +1,7 @@
 ### Hi 👋
 **我是 蓝师傅**
 
-#### 在哪里找到我
-
-| 掘金 | 简书 | 微信 |
-| :-: | :-: | :-: |
-| [点我](https://juejin.cn/user/3298190612500696) | [点我](https://www.jianshu.com/u/282785a6b12f) | wx_lanshifu |
-
-### ⭐️ &nbsp;Github Star
+#### ⭐️ &nbsp;Github Star
 
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lanshifu&count_private=true&show_icons=true"/>
 
@@ -16,6 +10,11 @@
 - 🙋🏻 Android 程序员
 - 📫 lanshifu2@gmail.com
 
+#### 在哪里找到我
+
+| 掘金 | 简书 | 微信 |
+| :-: | :-: | :-: |
+| [点我](https://juejin.cn/user/3298190612500696) | [点我](https://www.jianshu.com/u/282785a6b12f) | wx_lanshifu |
 
 #### 最新文章 
 <!-- BLOG-POST-LIST:START -->
