@@ -1,13 +1,10 @@
 ### Hi 👋
-**我是 蓝师傅**
+**我是 蓝师傅，潮汕boy**
 
-#### ⭐️ &nbsp;Github Star
-
-<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lanshifu&count_private=true&show_icons=true"/>
 
 #### 关于我
 
-- 🙋🏻 Android 程序员
+- 🙋🏻 Android 开发工程师
 - 📫 lanshifu2@gmail.com
 
 #### 在哪里找到我
@@ -23,7 +20,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%23323330.svg?style=for-the-badge&logo=Flutter&logoColor=%FF0F7BE4)
 ![Python](https://img.shields.io/badge/Python-%23323330.svg?style=for-the-badge&logo=Python&logoColor=%FF0F7BE4)
 
-#### 最新文章 
+
+#### 最新文章
 <!-- BLOG-POST-LIST:START -->
 - [ASM hook隐私方法调用，防止App被下架](https://juejin.cn/post/7043399520486424612)
 - [卡顿、ANR、死锁，线上如何监控？](https://juejin.cn/post/6973564044351373326)
@@ -32,3 +30,6 @@
 - [手撸网易云进阶课程-性能优化之NDK高效加载GIF](https://juejin.cn/post/6844904008797126664)
 <!-- BLOG-POST-LIST:END -->
 [更多文章](https://juejin.cn/user/3298190612500696/posts)
+
+#### 业余爱好
+爬山、游泳、跑步、航拍等。
