@@ -20,11 +20,11 @@
 
 #### 最新文章
 <!-- BLOG-POST-LIST:START -->
+- [OOM深入分析、优化以及线上监控](https://juejin.cn/post/7074762489736478757)
 - [ASM hook隐私方法调用，防止App被下架](https://juejin.cn/post/7043399520486424612)
 - [卡顿、ANR、死锁，线上如何监控？](https://juejin.cn/post/6973564044351373326)
 - [入职三个月，游戏SDK开发总结](https://juejin.cn/post/6844904193082261518)
 - [2019 总结| 掘金年度征文](https://juejin.cn/post/6844904026006355975)
-- [手撸网易云进阶课程-性能优化之NDK高效加载GIF](https://juejin.cn/post/6844904008797126664)
 <!-- BLOG-POST-LIST:END -->
 [更多文章](https://juejin.cn/user/3298190612500696/posts)
 
